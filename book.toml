@@ -1,0 +1,12 @@
+[book]
+authors = ["squili"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Makita"
+
+[output.html]
+default-theme = "discord"
+preferred-dark-theme = "discord"
+additional-css = ["theme.css"]
+additional-js = ["theme.js"]
