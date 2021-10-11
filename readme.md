@@ -1,1 +1,0 @@
-Use mdbook to generate the webpage. Use something else to upload the webpage. Yabba dabba do.
