@@ -7,8 +7,9 @@ Makita permission) and a set of roles and users who have it. All of this can be 
 with the `/permissions` command. Note that, because of limitations in Discord, you'll need
 to [calculate the permissions bits yourself](https://discordapi.com/permissions.html).
 
-Name               | Description                  | Default      
--------------------|------------------------------|--------------
-Administrator      | Access to all permissions    | Administrator
-Manage Permissions | Manage bot permissions       | Administrator
-Manage Previews    | Manage preview configuration | Manage Server
+Name               | Description                           | Default      
+-------------------|---------------------------------------|--------------
+Administrator      | Access to all permissions             | Administrator
+Manage Permissions | Manage bot permissions                | Administrator
+Manage Previews    | Manage preview configuration          | Manage Server
+Create Archive     | Create entries in the archive channel | Manage Messages
